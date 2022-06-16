@@ -1,2 +1,4 @@
-console.log('Hello world we starting this shit!')
-alert('Siema');
+
+function myFunc(){
+    alert("Hello World");
+}
