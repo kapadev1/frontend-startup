@@ -1,2 +1,1 @@
-// console.log('Hello world');
-alert('Hello');
+console.log('Hello world we starting this shit!')
